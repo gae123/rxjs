@@ -54,7 +54,7 @@ range(1, 200)
   .subscribe(x => console.log(x));
 ```
 
-Here, we're using the built-in `pipe` method on Observables to combine operators. See [pipeable operators](https://github.com/ReactiveX/rxjs/blob/master/doc/pipeable-operators.md) for more information.
+Here, we're using the built-in `pipe` method on Observables to combine operators. See [pipeable operators](docs_app/content/guide/v6/pipeable-operators.md) for more information.
 
 ### CommonJS via npm
 
